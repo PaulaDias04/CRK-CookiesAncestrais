@@ -36,20 +36,6 @@ Este projeto está licenciado sob a Licença MIT
 
 ---
 
-**Personalize este README:**
+**Teste o site:**
 
-* **Substitua os placeholders:**
-    * `[seu_repositorio]`: Substitua pelo URL do seu repositório no GitHub.
-    * `[Insira aqui a licença utilizada]`: Especifique a licença que você escolheu para o projeto.
-* **Adicione mais detalhes:**
-    * Inclua diagramas de fluxo ou diagramas de classes para explicar a arquitetura do projeto.
-    * Descreva a estrutura de dados utilizada para armazenar as informações dos cookies.
-    * Explique as decisões de design tomadas durante o desenvolvimento.
-* **Use imagens e exemplos de código:**
-    * Use imagens para ilustrar a interface do usuário e exemplos de código para explicar a lógica da aplicação.
-
-**Dicas extras:**
-* **Seja claro e conciso:** Use uma linguagem clara e objetiva para explicar o projeto.
-* **Organize o conteúdo:** Use cabeçalhos e listas para organizar o conteúdo de forma lógica.
-* **Utilize formatação Markdown:** Use a sintaxe Markdown para formatar o texto, como negrito, itálico, listas e código.
-* 
+https://crk-cookies-ancestrais.vercel.app/
