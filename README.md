@@ -39,5 +39,6 @@ Este projeto está licenciado sob a Licença MIT
 **Teste o site:**  
 https://crk-cookies-ancestrais.vercel.app/
 
-![image](https://github.com/user-attachments/assets/aa283a35-2b8c-4f45-9dfe-a9bb3484bd4a)
+![image](https://github.com/user-attachments/assets/6ade84ed-a3e8-4ce4-a136-7d14582e1fc2)
+
 
